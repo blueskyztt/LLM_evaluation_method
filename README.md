@@ -1,7 +1,7 @@
 The evaluation indicators of our survey are as follows:
-- [BLEU](BLEU.md): BLEU is used to evaluate machine translation tasks
-- [CHRF](./CHRF.md): CHRF is used to evaluate text generation tasks
-- [macro F1](macro_F1.md): Macro F1 is used to evaluate multi-classification problems
+- [BLEU](./pdf/BLEU.pdf): BLEU is used to evaluate machine translation tasks
+- [CHRF](./pdf/CHRF.pdf): CHRF is used to evaluate text generation tasks
+- [macro F1](./pdf/macro_F1.pdf): Macro F1 is used to evaluate multi-classification problems
 - [MCC](./pdf/MCC.pdf): MCC is used to evaluate binary classification models
 - [METROR](./pdf/METROR.pdf): METROR is used to evaluate machine translation tasks
 - [MRR](./pdf/MRR.pdf): MRR is used to evaluate information retrieval tasks and ranking tasks
