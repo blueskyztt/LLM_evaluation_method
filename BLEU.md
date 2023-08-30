@@ -18,7 +18,7 @@ $W_n$ represents the weight. In actual calculation, for all n, the value of $W_n
 $P_n(G,R)$ is precision.
 $BP(G,R)$ is the penalty factor, the formula is as follows:
 $$
-BP(G,R)=  \begin{aligned} 1 \quad\quad\quad\quad lc>lr \\ exp(1-lr/lc) \quad lc \leq lr \end{aligned} 
+BP(G,R)=  
 $$
 
 Among them, $lc$ is the length of the generated translation sentence, and $lr$ is the length of the shortest reference translation sentence.
