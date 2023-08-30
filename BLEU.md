@@ -17,11 +17,13 @@ Among them, the possible value of $N$ is in the range of integers between 1 and 
 $W_n$ represents the weight. In actual calculation, for all n, the value of $W_n$ is $1/N$.
 $P_n(G,R)$ is precision.
 $BP(G,R)$ is the penalty factor, the formula is as follows:
-$$ BP(G,R)=
+$$ 
+BP(G,R)=
  \begin{align} 
-1 \quad\quad\quad\quad  lc>lr
-\\ exp(1-lr/lc) \quad lc \leq lr
-\end{align} $$
+1   lc>lr  \\
+exp(1-lr/lc)  lc \leq lr
+\end{align} 
+$$
 Among them, $lc$ is the length of the generated translation sentence, and $lr$ is the length of the shortest reference translation sentence.
 ## 2 Advantages and Disadvantages of BLEU
 ### 2.1 Advantages of BLEU
