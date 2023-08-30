@@ -1,5 +1,5 @@
 ## 1 Definition of CHRF
-
+CHRF is mainly suitable for evaluating text generation tasks.
 The general formula for the CHRF score is:
 $$chrF \beta=（1+\beta^2）\frac{chrP \cdot chrR}{\beta^2 \cdot chrP+chrR} $$
 Among them, $chrP$ is the accuracy, which is the proportion of character-level n-grams that match the generated translation and the reference translation in the generated translation.
