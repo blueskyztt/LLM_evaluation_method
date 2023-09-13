@@ -4,7 +4,7 @@ The evaluation indicators of our survey are as follows:
 - [CIDEr](./pdf/CIDEr.pdf): CIDEr is used to evaluate image description tasks
 - [ENTROPY](./pdf/ENTROPY.pdf): ENTROPY is used to evaluate text generation tasks
 - [KL divergence](./pdf/KL_divergence.pdf): KL divergence is used to evaluate text generation tasks
-- [macro F1](./pdf/macro F1.pdf): macro F1 is used to evaluate multi-classification problems.
+- [macro F1](./pdf/macro_F1.pdf): macro F1 is used to evaluate multi-classification problems.
 - [MCC](./pdf/MCC.pdf): MCC is used to evaluate binary classification models
 - [METEOR](./pdf/METEOR.pdf): METEOR is used to evaluate machine translation tasks
 - [MRR](./pdf/MRR.pdf): MRR is used to evaluate information retrieval tasks and ranking tasks
